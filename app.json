@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "contact-list",
-    "slug": "contact-list",
+    "name": "Muntaji",
+    "slug": "Muntaji",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,8 +17,12 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.companyname.appname",
       "supportsTablet": true
     },
+    "android": {
+      "package": "com.companyname.appname"
+      },
     "web": {
       "favicon": "./assets/favicon.png"
     }

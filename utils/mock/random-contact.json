@@ -1,0 +1,28 @@
+{
+  "results": [
+  {
+      "name":  "Alislamya Company" ,
+      "email": "Alisalamya@example.com",
+      "phone": "021-085-1530",
+      "cell": "081-299-0757",
+      "picture": "https://randomuser.me/api/portraits/men/55.jpg"
+      
+  },
+  {
+       "name": "Sanyoura Company" ,
+       "email": "Sanyoura@example.com",
+       "phone": "021-085-1531",
+       "cell": "081-299-0757",
+       "picture": "https://randomuser.me/api/portraits/men/55.jpg"
+       
+   },
+        {
+       "name": "jehad Company" ,
+       "email": "jehad@example.com",
+       "phone": "021-085-1532",
+       "cell": "081-299-0757",
+       "picture": "https://scontent.fjrs8-1.fna.fbcdn.net/v/t1.0-1/c0.42.160.160a/p160x160/119729751_2836674173102858_7458644360603743827_o.jpg?_nc_cat=105&_nc_sid=dbb9e7&_nc_ohc=A4P7EHrSD1wAX-k2UeR&_nc_ht=scontent.fjrs8-1.fna&oh=7b56368564ffd577c0f430e8ca8e55a4&oe=5F8C0FBB"
+       
+   }
+  ]
+}

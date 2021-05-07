@@ -1,0 +1,22 @@
+{
+    "results": [
+        {
+            "id": "1111",
+            "name": "Alislamya Company",
+            "email": "AlislamyaComp@gmail.com",
+            "phone": "595554546"
+        },
+        {
+            "id": "2222",
+            "name": "Saniora Company",
+            "email": "Saniora@gmail.com",
+            "phone": "592354546"
+        },
+        {
+            "id": "3333",
+            "name": "jehad Company",
+            "email": "jehad@gmail.com",
+            "phone": "598435951"
+        }
+    ]
+}
